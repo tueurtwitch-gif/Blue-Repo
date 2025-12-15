@@ -1,13 +1,7 @@
-Date: Mon, 15 Dec 2025 14:58:01 +0000
-MD5Sum:
- 947516294a82ce0eaa3dac692c7ea894             1439 Packages
- 4f24d0848351f7d5012afafebda76574               38 Release
-SHA1:
- a9d756ace3670ab98db63ff426f396a858ca3cd9             1439 Packages
- 485220aba037dedc0bb40ccf8ad0f7b8912c31d9               38 Release
-SHA256:
- 8385d866d4ad3e9b5f8d35334b7a0bf49409e322c56fbf542f1ec83705e232e1             1439 Packages
- 9d52348a8aa4f889b7ee3ef9f89d3cf56e2ff07c37ece65a8780d49e44c75268               38 Release
-SHA512:
- aa228a4a0dc348df8f672a34381e1af3e9df1b13fe45aafb6a2ee84e710dd093bd083f3d7824a05838731528d7af19e0753502e6a5de1e83ad8aad34454c92b7             1439 Packages
- a19cbe7618275545157152f7086d2c57dea30833b8c65105fd70242ee2c7960285089306287564f94656bb2508b9e0c03b6530c2c630354f9a77935df9655e66               38 Release
+Origin: BlueDev
+Label: BlueRepo 
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Repo for pentesting tool 
