@@ -1,0 +1,7 @@
+Origin: BlueDev
+Label: BlueRepo
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Repo with pentesting tool adapted in arm64 for ios 
